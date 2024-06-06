@@ -9,5 +9,5 @@ const AvgArray = (arr) => {
   }
   return avg;
 };
-let arr = [1, 2, 1, 1, 5, 1];
+let arr = [1, 2, 1, 1, 5, 3];
 console.log(AvgArray(arr));

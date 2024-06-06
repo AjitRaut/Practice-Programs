@@ -1,4 +1,4 @@
-// Average of all the elements in the array
+// Average of all the elements in the array.
 
 const AvgArray = (arr) => {
   let avg = 0;

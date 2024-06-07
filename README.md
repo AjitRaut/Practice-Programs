@@ -4,4 +4,5 @@
 <p>3) Check Given Number Is Palindrome Or Not.</p>
 <hr>
 <h2>Strings</h2>
-<p>1) Check The Both Strings Are Equivalent Or Not return True Or false</p>
+<p>1) Check The Both Strings Are Equivalent Or Not return True Or false.</p>
+<p>2) Find Maximum Numbers From Given Sentence.</p>

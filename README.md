@@ -9,3 +9,4 @@
 <p>1) Check The Both Strings Are Equivalent Or Not return True Or false.</p>
 <p>2) Find Maximum Numbers From Given Sentence.</p>
 <p>3)  Defanging Ip Address.</p>
+<p>4) Replace Words</p>

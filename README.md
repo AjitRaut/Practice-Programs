@@ -4,6 +4,7 @@
 <p>3) Check Given Number Is Palindrome Or Not.</p>
 <p>4) Number of Employees Who Met the Target.</p>
 <p>5) Second Largest Number In Array</p>
+<p>6) Merge Sorded Arrays</p>
 <hr>
 <h2>Strings</h2>
 <p>1) Check The Both Strings Are Equivalent Or Not return True Or false.</p>

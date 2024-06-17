@@ -5,6 +5,7 @@
 <p>4) Number of Employees Who Met the Target.</p>
 <p>5) Second Largest Number In Array</p>
 <p>6) Merge Sorded Arrays</p>
+<p>7) Sum Of Square Numbers.</p>
 <hr>
 <h2>Strings</h2>
 <p>1) Check The Both Strings Are Equivalent Or Not return True Or false.</p>

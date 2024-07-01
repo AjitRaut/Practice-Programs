@@ -14,3 +14,4 @@
 <p>4) Replace Words</p>
 <p>5) Common Words in given string.</p>
 <p>6) Count The Numbers Of vowels In String In Range.</p>
+<p>7) Suffle String.</p>

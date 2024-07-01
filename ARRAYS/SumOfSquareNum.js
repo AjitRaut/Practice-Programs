@@ -1,4 +1,4 @@
-// Sum Of Square.
+// Sum Of Square Numbers.
 var judgeSquareSum = function(c) {
     let i=0;
     let sum;

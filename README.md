@@ -7,6 +7,7 @@
 <p>6) Merge Sorded Arrays</p>
 <p>7) Sum Of Square Numbers.</p>
 <p>8) Find The Numbers With Even Digits</p>
+<p>9) Given an integer array arr, return true if there are three consecutive odd numbers in the array. Otherwise, return false.</p>
 <hr>
 <h2>Strings</h2>
 <p>1) Check The Both Strings Are Equivalent Or Not return True Or false.</p>

@@ -2,14 +2,18 @@ var minimumRecolors = function(blocks, k) {
     let countW= 0;
 
     for(let i = 0; i<blocks.length;i++){
-        if(blocks[i]===blocks[i + 1]){
+        if(blocks[i].includes("B")){
             countW++
+            
+        }
+        if(countW <= k){
+          blocks[i].includes("W")="B"
+          countW++
         }
     }
+    
     console.log(countW)
-    if(countW >= k){
-        return 0
-    }
+    
     
 };
 let blocks= "WBBWWBBWBW";
